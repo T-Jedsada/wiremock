@@ -1,0 +1,13 @@
+{
+    "request": {
+        "urlPattern": "/users",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "dagger2_mvp_example/user.json"
+    }
+}
