@@ -1,6 +1,6 @@
 {
     "request": {
-        "urlPattern": "/users",
+        "urlPathPattern": "/users/([a-z]*)",
         "method": "GET"
     },
     "response": {
