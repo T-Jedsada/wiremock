@@ -1,3 +1,6 @@
 {
-    "message": "Login Successfully"
+    "message": "Login Successfully",
+    "hospitalId": "1234",
+    "userId": "1",
+    "authToken": "jedsadaTiwonvorakul"
 }
