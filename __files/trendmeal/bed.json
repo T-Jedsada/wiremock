@@ -1,0 +1,20 @@
+{
+  "bed":[
+    {
+      "_id": "1",
+      "name": "B11",
+      "available":"true",
+      "url":"test"
+    },{
+      "_id": "2",
+      "name": "B12",
+      "available":"false",
+      "url":"test"
+    },{
+      "_id": "3",
+      "name": "B13",
+      "available":"false",
+      "url":"test"
+    }
+  ]
+}
