@@ -12,13 +12,13 @@
         "available": "false",
         "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "true",
-        "status": "#80bcf763"
+        "status": "#b8e986"
     }, {
         "_id": "3",
         "name": "B13",
         "available": "false",
         "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
-        "status": "#80f7f263"
+        "status": "#b8e986"
     }]
 }
