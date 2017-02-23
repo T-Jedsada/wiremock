@@ -1,0 +1,13 @@
+{
+    "request": {
+        "urlPathPattern": "/menudetail/([0-9]*)",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "trendmeal/menudetail.json"
+    }
+}
