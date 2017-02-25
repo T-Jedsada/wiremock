@@ -2,141 +2,101 @@
     "bed": [{
         "_id": "1",
         "name": "A-01",
-        "available": "true",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "true",
         "status": ""
     }, {
         "_id": "2",
         "name": "A-02",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "true",
         "status": "#b8e986"
     }, {
         "_id": "3",
         "name": "A-03",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "4",
         "name": "A-04",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "5",
         "name": "A-05",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "6",
         "name": "A-06",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": ""
     }, {
         "_id": "7",
         "name": "A-07",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "8",
         "name": "A-08",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "9",
         "name": "A-09",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "10",
         "name": "A-10",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "11",
         "name": "A-11",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "12",
         "name": "A-12",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "13",
         "name": "A-13",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "14",
         "name": "A-14",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "15",
         "name": "A-15",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "16",
         "name": "A-16",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": ""
     }, {
         "_id": "17",
         "name": "A-17",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": ""
     }, {
         "_id": "18",
         "name": "A-18",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }, {
         "_id": "19",
         "name": "A-19",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": ""
     }, {
         "_id": "20",
         "name": "A-20",
-        "available": "false",
-        "image": "http://organichealthadviser.com/wp-content/uploads/2012/11/Hospital-Bed.jpg",
         "vip": "false",
         "status": "#b8e986"
     }]
