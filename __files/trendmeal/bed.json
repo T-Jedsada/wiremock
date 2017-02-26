@@ -8,22 +8,22 @@
         "_id": "2",
         "name": "A-02",
         "vip": "true",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "3",
         "name": "A-03",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "4",
         "name": "A-04",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "5",
         "name": "A-05",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "6",
         "name": "A-06",
@@ -33,47 +33,47 @@
         "_id": "7",
         "name": "A-07",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "8",
         "name": "A-08",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "9",
         "name": "A-09",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "10",
         "name": "A-10",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "11",
         "name": "A-11",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "12",
         "name": "A-12",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "13",
         "name": "A-13",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "14",
         "name": "A-14",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "15",
         "name": "A-15",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "16",
         "name": "A-16",
@@ -88,7 +88,7 @@
         "_id": "18",
         "name": "A-18",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }, {
         "_id": "19",
         "name": "A-19",
@@ -98,6 +98,6 @@
         "_id": "20",
         "name": "A-20",
         "vip": "false",
-        "status": "#b8e986"
+        "status": ""
     }]
 }
