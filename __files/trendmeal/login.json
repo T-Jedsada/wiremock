@@ -1,94 +1,89 @@
 {
-  "message": "Login Successfully",
-  "hospitalId": "1234",
-  "userId": "1",
-  "authToken": "jedsadaTiwonvorakul",
-  "building": {
-    "_id": "1",
-    "name": "B1",
-    "floor": [
-      {
+    "message": "Login Successfully",
+    "hospitalId": "1234",
+    "userId": "1",
+    "authToken": "jedsadaTiwonvorakul",
+    "building": {
         "_id": "1",
-        "name": "F1",
-        "room": [
-          {
-            "_id": "1",
-            "name": "R11"
-          },
-          {
-            "_id": "2",
-            "name": "R12"
-          }
+        "name": "B1",
+        "floor": [{
+                "_id": "1",
+                "name": "F1",
+                "room": [{
+                        "_id": "1",
+                        "name": "R11"
+                    },
+                    {
+                        "_id": "2",
+                        "name": "R12"
+                    }
+                ]
+            },
+            {
+                "_id": "2",
+                "name": "F2",
+                "room": [{
+                        "_id": "1",
+                        "name": "R21"
+                    },
+                    {
+                        "_id": "2",
+                        "name": "R22"
+                    }
+                ]
+            },
+            {
+                "_id": "3",
+                "name": "F3",
+                "room": [{
+                        "_id": "1",
+                        "name": "R31"
+                    },
+                    {
+                        "_id": "2",
+                        "name": "R32"
+                    }
+                ]
+            },
+            {
+                "_id": "4",
+                "name": "F4",
+                "room": [{
+                        "_id": "1",
+                        "name": "R41"
+                    },
+                    {
+                        "_id": "2",
+                        "name": "R42"
+                    }
+                ]
+            },
+            {
+                "_id": "5",
+                "name": "F5",
+                "room": [{
+                        "_id": "1",
+                        "name": "R51"
+                    },
+                    {
+                        "_id": "2",
+                        "name": "R52"
+                    },
+                    {
+                        "_id": "3",
+                        "name": "R53"
+                    },
+                    {
+                        "_id": "4",
+                        "name": "R54"
+                    },
+                    {
+                        "_id": "5",
+                        "name": "R55"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "_id": "2",
-        "name": "F2",
-        "room": [
-          {
-            "_id": "1",
-            "name": "R21"
-          },
-          {
-            "_id": "2",
-            "name": "R22"
-          }
-        ]
-      },
-      {
-        "_id": "3",
-        "name": "F3",
-        "room": [
-          {
-            "_id": "1",
-            "name": "R31"
-          },
-          {
-            "_id": "2",
-            "name": "R32"
-          }
-        ]
-      },
-      {
-        "_id": "4",
-        "name": "F4",
-        "room": [
-          {
-            "_id": "1",
-            "name": "R41"
-          },
-          {
-            "_id": "2",
-            "name": "R42"
-          }
-        ]
-      },
-      {
-        "_id": "5",
-        "name": "F5",
-        "room": [
-          {
-            "_id": "1",
-            "name": "R51"
-          },
-          {
-            "_id": "2",
-            "name": "R52"
-          },
-          {
-            "_id": "3",
-            "name": "R53"
-          },
-          {
-            "_id": "4",
-            "name": "R54"
-          },
-          {
-            "_id": "5",
-            "name": "R55"
-          }
-        ]
-      }
-    ]
-  }
+    },
+    "timeMeal": ["9:00", "14:00", "19:00"]
 }
