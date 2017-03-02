@@ -1,6 +1,6 @@
 {
     "request": {
-        "urlPathPattern": "/sidedish/([a-z]*)",
+        "urlPathPattern": "/sidedish/([0-9]*)",
         "method": "GET"
     },
     "response": {
