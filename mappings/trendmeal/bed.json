@@ -1,6 +1,6 @@
 {
     "request": {
-        "urlPathPattern": "/bed",
+        "urlPathPattern": "/bed/([0-9]*)",
         "method": "GET"
     },
     "response": {
