@@ -6,10 +6,10 @@
     "building": {
         "_id": "1",
         "name": "B1",
-        "floor": [{
+        "floors": [{
                 "_id": "1",
                 "name": "F1",
-                "room": [{
+                "rooms": [{
                         "_id": "1",
                         "name": "R11"
                     },
@@ -22,7 +22,7 @@
             {
                 "_id": "2",
                 "name": "F2",
-                "room": [{
+                "rooms": [{
                         "_id": "1",
                         "name": "R21"
                     },
@@ -35,7 +35,7 @@
             {
                 "_id": "3",
                 "name": "F3",
-                "room": [{
+                "rooms": [{
                         "_id": "1",
                         "name": "R31"
                     },
@@ -48,7 +48,7 @@
             {
                 "_id": "4",
                 "name": "F4",
-                "room": [{
+                "rooms": [{
                         "_id": "1",
                         "name": "R41"
                     },
@@ -61,7 +61,7 @@
             {
                 "_id": "5",
                 "name": "F5",
-                "room": [{
+                "rooms": [{
                         "_id": "1",
                         "name": "R51"
                     },
