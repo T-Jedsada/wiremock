@@ -1,6 +1,6 @@
 {
     "request": {
-        "urlPathPattern": "/menu/([0-9]*)/([a-z]*)",
+        "urlPathPattern": "/menu/([0-9]*)/([a-z]*)/([a-z]*)/([a-z]*)",
         "method": "GET"
     },
     "response": {
