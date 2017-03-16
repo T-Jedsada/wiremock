@@ -1,6 +1,6 @@
 {
     "request": {
-        "url": "/grabredcar/login",
+        "url": "/grabredcardriver/login",
         "method": "POST"
     },
     "response": {
@@ -8,6 +8,6 @@
         "headers": {
             "Content-Type": "application/json"
         },
-        "bodyFileName": "grabredcar_user/login.json"
+        "bodyFileName": "grabredcar_driver/login.json"
     }
 }
