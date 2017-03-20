@@ -1,6 +1,6 @@
 {
     "request": {
-        "url": "/grabredcaruser/facebook",
+        "url": "/grabredcaruser/user/facebook",
         "method": "POST"
     },
     "response": {

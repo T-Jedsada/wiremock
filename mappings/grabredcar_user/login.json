@@ -1,6 +1,6 @@
 {
     "request": {
-        "url": "/grabredcaruser/login",
+        "url": "/grabredcaruser/user/login",
         "method": "POST"
     },
     "response": {

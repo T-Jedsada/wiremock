@@ -1,6 +1,6 @@
 {
     "request": {
-        "url": "/grabredcaruser/register",
+        "url": "/grabredcaruser/user/register",
         "method": "POST"
     },
     "response": {
