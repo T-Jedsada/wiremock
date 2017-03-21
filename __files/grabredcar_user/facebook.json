@@ -1,9 +1,9 @@
 {
     "userId": "1234",
-    "token": "jedsadaTiwonvorakul",
-    "image" : "https://goo.gl/HM6XNV",
-    "email" : "test@test.com",
-    "firstName" : "Test",
-    "lastName" : "Test Test",
-    "phoneNumber" : ""
+    "userToken": "jedsadaTiwonvorakul",
+    "image": "https://goo.gl/HM6XNV",
+    "email": "test@test.com",
+    "firstName": "Test",
+    "lastName": "Test Test",
+    "phoneNumber": ""
 }
