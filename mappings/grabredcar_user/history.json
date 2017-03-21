@@ -1,0 +1,13 @@
+{
+    "request": {
+        "url": "/grabredcaruser/user/history",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "grabredcar_user/history.json"
+    }
+}
