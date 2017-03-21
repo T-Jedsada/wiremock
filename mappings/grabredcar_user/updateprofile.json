@@ -1,0 +1,13 @@
+{
+    "request": {
+        "url": "/grabredcaruser/user/updateprofile",
+        "method": "POST"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "grabredcar_user/login.json"
+    }
+}
