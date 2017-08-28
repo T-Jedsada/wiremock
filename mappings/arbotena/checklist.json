@@ -1,0 +1,13 @@
+{
+    "request": {
+        "url": "/arbotena/checklist",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "arbotena/checklist.json"
+    }
+}
